@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../Component/Header'
-import Categories from '../Component/categories'
+import Categories from '../Component/Categories'
 
 
 
